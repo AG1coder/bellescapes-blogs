@@ -18,7 +18,7 @@ The focus is on the France (and adjacent Spain) that guidebooks skip: regional f
 | 08 | [Basque Country: Biarritz, Bilbao, San Sebastián & the Flysch of Zumaia](posts/08-basque-country-biarritz-bilbao-san-sebastian.md) | Basque Country | coast, Zumaia flysch, cities |
 | 09 | [Costa Brava Below Girona: Roses, Cadaqués, Lloret, Tossa & the Dalí Trail](posts/09-costa-brava-girona-dali.md) | Costa Brava / Catalonia | beaches, Dalí, Cadaqués |
 | 10 | [Ibiza, Both Islands: The Morning Raves, the Planes, and the Calas Worth the Climb](posts/10-ibiza-rave-culture-beaches-hippie-markets.md) | Balearic Islands / Ibiza | nightlife, rave history, day clubs, calas, Atlantis, hippie markets |
-| 11 | [Ibiza or Mallorca? How to Choose — and How to Do Both on the Fast Ferry](posts/11-ibiza-vs-mallorca-how-to-do-both.md) | Balearic Islands | island comparison, ferry logistics, Palma base, day + night in Ibiza |
+| 11 | [Ibiza in a Day and a Night: A Fast-Ferry Excursion from Palma — and the Timetable Trap I Nearly Fell Into](posts/11-ibiza-vs-mallorca-how-to-do-both.md) | Balearic Islands | first-person excursion, ferry logistics, timetable warning, Palma base, island comparison |
 
 ## Format
 
