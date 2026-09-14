@@ -17,6 +17,7 @@ The focus is on the France (and adjacent Spain) that guidebooks skip: regional f
 | 07 | [The Pyrenees by Train from Toulouse: Aulus, Cascades, Luchon & the Lakes](posts/07-pyrenees-train-toulouse-aulus-luchon.md) | Occitanie / Pyrenees | hiking, waterfalls, rail, lakes |
 | 08 | [Basque Country: Biarritz, Bilbao, San Sebastián & the Flysch of Zumaia](posts/08-basque-country-biarritz-bilbao-san-sebastian.md) | Basque Country | coast, Zumaia flysch, cities |
 | 09 | [Costa Brava Below Girona: Roses, Cadaqués, Lloret, Tossa & the Dalí Trail](posts/09-costa-brava-girona-dali.md) | Costa Brava / Catalonia | beaches, Dalí, Cadaqués |
+| 10 | [Ibiza, Both Islands: The Morning Raves, the Planes, and the Calas Worth the Climb](posts/10-ibiza-rave-culture-beaches-hippie-markets.md) | Balearic Islands / Ibiza | nightlife, rave history, day clubs, calas, Atlantis, hippie markets |
 
 ## Format
 
